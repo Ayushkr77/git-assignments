@@ -1,0 +1,11 @@
+# Ignore build directory at root
+/build/
+
+# Ignore environment variable files
+*.env
+
+# Ignore logs from test-runs
+/test-runs/logs/
+
+# Ignore all CSV files
+*.csv
